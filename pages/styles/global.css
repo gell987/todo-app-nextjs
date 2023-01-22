@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to right, #bbb, #111);
+}
+h1{
+  color-scheme: #111 and #bbb;
+}
+.white{
+  color: #bbb;
+}
